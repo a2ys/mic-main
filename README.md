@@ -2,6 +2,25 @@
 
 This project is a web application that suggests music based on your current mood. It uses a React frontend to capture your mood and a Node.js backend to communicate with the Spotify and Gemini APIs to generate a relevant playlist.
 
+## Technology Stack
+
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **APIs:** Spotify API, Google Gemini API
+- **Package Manager:** pnpm
+
+## Features Implemented
+
+- Mood-based music recommendations.
+- Dynamic keyword generation for playlist searching using Google Gemini.
+- Fetches and displays a list of tracks from Spotify.
+- Randomizes the track order for a fresh playlist every time.
+- Simple, clean user interface.
+
+## Demo
+
+You can view a live demo of the project here: [mic-frontend.a2ys.dev](https://mic-frontend.a2ys.dev)
+
 ## How to Get Started
 
 To get this project running on your local machine, you'll need to set up both the backend and the frontend. Make sure you have Node.js and pnpm installed before you begin.
