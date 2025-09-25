@@ -96,3 +96,16 @@ The frontend is a React application that provides the user interface.
    This command will start the development server, and you can view the application by navigating to the URL provided in the terminal (usually `http://localhost:5173`).
 
 Once both the backend and frontend are running, you can use the application to get music recommendations based on your mood.
+
+## Screenshots
+
+### Frontend
+
+![Frontend Screenshot 1](image.png)
+![Frontend Screenshot 2](image-1.png)
+![Frontend Screenshot 3](image-2.png)
+
+### Backend
+
+![Backend Render Deployment](image-3.png)
+![Backend Health Check](image-4.png)
